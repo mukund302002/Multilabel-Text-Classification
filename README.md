@@ -1,1 +1,5 @@
 # Multilabel-Text-Classification
+
+Introducing our sentiment analysis venture, a robust solution tailored for a multi-label classification conundrum spanning nine distinct categories. To tackle this intricate challenge, we meticulously preprocess the dataset, ensuring impeccable input quality for our model. Leveraging the prowess of the DistilBERT transformer model, we harness its pre-trained tokenizer to streamline the encoding process. Subsequently, our model undergoes rigorous training to grasp the nuanced correlations between the input data and the varied labels. In the validation phase, executed on 20% of the dataset, we meticulously scrutinize the model's performance. Our evaluation criteria encompass a suite of metrics including the ROC-AUC curve, accuracy, precision, recall, and F1 score, offering a holistic understanding of the model's efficacy. We eagerly invite collaboration and feedback to further refine the efficiency and precision of our sentiment analysis endeavor.
+
+This endeavor is spearheaded by the FUZZY NEURONS team, consisting of esteemed members: Himanshu Kumar, Mukund Agarwalla, and Shreyash Verma.
